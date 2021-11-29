@@ -1,0 +1,20 @@
+/*this is css comments*/
+/*this also works on multi-line */
+
+*{
+   background-color: rgb(25, 210, 216);
+   font-size: 25px;
+}
+.navmenu {
+    background-color: sandybrown;
+}
+h1 {
+   color: red;
+   font-size: 12px;
+}
+
+/*this is an exemp of creating your own Class on css*/
+.large{
+   font-size: 20px;
+}
+

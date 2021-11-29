@@ -1,0 +1,16 @@
+
+body{
+    background-color: cornflowerblue;
+}
+
+p{color: aliceblue;
+}
+
+.section {
+    color:crimson
+}/*CLASS - used more than once*/
+
+#title {
+    color: blue;    
+} /*ID - used once*/
+
